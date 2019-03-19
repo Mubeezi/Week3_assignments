@@ -5,6 +5,9 @@
   }
 
       flower.name="Lily"
+
       flower.height=[22]
 
-console.log(flower.height);
+      flower.pollinator=["bees","butterflies","man" ]
+
+      
