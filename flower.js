@@ -4,5 +4,5 @@
     height:24,
   }
 
-  console.log(flower.height
-  );
+flower.name="Lily"
+ console.log(flower.name);
